@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Encryption</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="this_is_an_application_that_demonstrates_the_encryption_decryption_process_first_there_should_be_a_hi_mp3_file_it_encrypts_it_to_an_encrypted_mp3_and_decrypts_into_decrypted_mp3">This is an application that demonstrates the encryption decryption process. First there should be a Hi.mp3 file. It encrypts it to an encrypted.mp3 and decrypts into decrypted.mp3</string>
+</resources>
